@@ -1,0 +1,13 @@
+= Azure Spring Apps scripts FOR REFERENCE ONLY
+
+I created, then generecized these scripts and am providing them publicly in the hope that they might be useful as a template for others' Azure Spring Apps creation, configuration, and deployment.
+
+There are many ways to accomplish all of these goals, but these are the approaches I use and favor. No guarantees they'll work for you, and in fact, they will not work for you "as is". You'll need to evaluate their applicability to your particular circumstances, determine their potential usefulness, and modify them to fit your desires/requirements.
+
+Best to you as you go forth and use Azure Spring Apps!
+
+== Contact information
+
+* Mark Heckler
+* link:https://twitter.com/mkheck[@mkheck]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
